@@ -130,7 +130,7 @@ To run this application locally on your computer, complete the following steps.
 To download the code to your computer, navigate to the directory you want to use on your computer and install both repositories. You'll need to run the following code from the root of your directory: <br>
 >Backend `git clone https://github.com/JoshTeperman/mern-project-backend.git` <br>
 
->Frontend: `git clone https://github.com/JoshTeperman/mern-project-backend.git` 
+>Frontend: `git clone https://github.com/JoshTeperman/mern-project-frontend.git` 
 
 You should now have a folder structure that looks like this:
 
